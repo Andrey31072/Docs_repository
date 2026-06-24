@@ -14,3 +14,10 @@ Documenta la intención del producto, evolución esperada y backlog funcional de
 | [vision.md](./vision.md) | Visión, objetivos de producto y propuesta de valor | 🔴 |
 | [roadmap.md](./roadmap.md) | Hitos, fases y evolución planificada | 🔴 |
 | [product-backlog.md](./product-backlog.md) | Backlog priorizado de producto | 🔴 |
+
+
+## Artefactos complementarios
+
+| Archivo | Descripcion | Estado |
+|---------|-------------|--------|
+| [documentation-roadmap.md](./documentation-roadmap.md) | Roadmap de construccion documental por fases | 🟡 |
