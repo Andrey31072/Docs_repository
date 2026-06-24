@@ -15,3 +15,10 @@ Centraliza el catálogo de microservicios, patrones de comunicación y documenta
 | [communication-patterns.md](./communication-patterns.md) | Patrones síncronos, asíncronos y resiliencia | 🔴 |
 | [_template/](./_template/) | Plantilla para documentar un servicio nuevo; no representa un microservicio real | 🟡 |
 | [services/](./services/) | Documentación específica por microservicio | 🔴 |
+
+## Artefactos complementarios
+
+| Archivo | Descripcion | Estado |
+|---------|-------------|--------|
+| [service-dependency-matrix.md](./service-dependency-matrix.md) | Dependencias, comunicacion y datos compartidos entre servicios | 🟡 |
+| [availability-scalability.md](./availability-scalability.md) | Recomendaciones de disponibilidad, resiliencia, escalabilidad y DR | 🟡 |
