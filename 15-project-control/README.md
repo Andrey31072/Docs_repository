@@ -15,3 +15,9 @@ Agrupa backlog técnico, riesgos, dependencias y preguntas abiertas del proyecto
 | [risks.md](./risks.md) | Riesgos, impacto, probabilidad y mitigación | 🔴 |
 | [dependencies.md](./dependencies.md) | Dependencias internas y externas | 🔴 |
 | [open-questions.md](./open-questions.md) | Preguntas pendientes de decisión o aclaración | 🔴 |
+
+## Artefactos complementarios
+
+| Archivo | Descripcion | Estado |
+|---------|-------------|--------|
+| [documentation-audit-report.md](./documentation-audit-report.md) | Diagnostico, hallazgos y recomendaciones de madurez documental | 🟡 |
